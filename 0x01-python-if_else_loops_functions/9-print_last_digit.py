@@ -1,10 +1,9 @@
 #!/usr/bin/python3
 # Author - Francis Morkeh Mensah
 
-def uppercase(str):
-    """Print a string in uppercase."""
-    for c in str:
-        if ord(c) >= 97 and ord(c) <= 122:
-            c = chr(ord(c) - 32)
-        print("{}".format(c), end="")
-    print("")
+#!/usr/bin/python3
+def print_last_digit(number):
+    '''prints the last digit of a number'''
+    last_digit = abs(number) % 10
+    print(f"{last_digit}", end='')
+    return last_digit
