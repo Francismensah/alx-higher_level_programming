@@ -1,6 +1,7 @@
 # Higher Level Programming Projects
 This repo contains all the projects that I have done in the alx-Holberton curriculum on Higher level programming using python 
 
+![alx_image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
 
 ## What Does High-Level Language (HLL) Mean?
 A high-level language is any programming language that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
